@@ -1,0 +1,3 @@
+deepagents
+langchain_ollama
+langchain-e2b
